@@ -1,0 +1,11 @@
+C:\Users\aibol\source\repos\Nterface\Nterface\obj\Debug\netcoreapp3.1\Nterface.csprojAssemblyReference.cache
+C:\Users\aibol\source\repos\Nterface\Nterface\obj\Debug\netcoreapp3.1\Nterface.AssemblyInfoInputs.cache
+C:\Users\aibol\source\repos\Nterface\Nterface\obj\Debug\netcoreapp3.1\Nterface.AssemblyInfo.cs
+C:\Users\aibol\source\repos\Nterface\Nterface\bin\Debug\netcoreapp3.1\Nterface.exe
+C:\Users\aibol\source\repos\Nterface\Nterface\bin\Debug\netcoreapp3.1\Nterface.deps.json
+C:\Users\aibol\source\repos\Nterface\Nterface\bin\Debug\netcoreapp3.1\Nterface.runtimeconfig.json
+C:\Users\aibol\source\repos\Nterface\Nterface\bin\Debug\netcoreapp3.1\Nterface.runtimeconfig.dev.json
+C:\Users\aibol\source\repos\Nterface\Nterface\bin\Debug\netcoreapp3.1\Nterface.dll
+C:\Users\aibol\source\repos\Nterface\Nterface\bin\Debug\netcoreapp3.1\Nterface.pdb
+C:\Users\aibol\source\repos\Nterface\Nterface\obj\Debug\netcoreapp3.1\Nterface.dll
+C:\Users\aibol\source\repos\Nterface\Nterface\obj\Debug\netcoreapp3.1\Nterface.pdb
